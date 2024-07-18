@@ -3,6 +3,7 @@
 <title> full stack development </title>
 </head>
 <body>
+<h1> what is fsd </h1>
 <p> Full stack development refers to the practice of developing both the frontend (client-side) and backend (server-side) parts of a web application.<br>
  A full stack developer is proficient in working with all layers of an application's technology stack, from the user interface and user experience (UI/UX) components to the server-side logic and database interactions.</p>
  </body>
